@@ -10,6 +10,7 @@ export async function buildSite({origin=(process.env.SITE_URL||process.env.CF_PA
  if(origin&&!/^https?:\/\/[^/]+$/.test(origin))throw new Error('SITE_URL must be an http(s) origin');
  await mkdir('dist/assets',{recursive:true});
  await cp('public/assets','dist/assets',{recursive:true});
+ await cp('public/ads.txt','dist/ads.txt');
  for(const f of ['styles.css','client.mjs','search.mjs','theme.js','images.mjs','ads.mjs','ads-client.mjs'])await cp('src/'+f,'dist/assets/'+f);
  await mkdir('dist/ads',{recursive:true});
  for(const format of Object.keys(bannerFormats))await writeFile(`dist/ads/${format}.html`,renderBannerDocument(format));
