@@ -59,3 +59,12 @@ Use your actual deployed domain in place of the example. The origin controls can
 Artwork is served locally. Fonts currently load from Google Fonts with system-font fallback. The YouTube privacy-enhanced iframe is only created after a click. Search downloads a local JSON index, and theme preferences use browser localStorage. There is no analytics integration, sign-in, database or payment form.
 
 See `docs/verification.md` for executed checks and limitations.
+
+
+## Adsterra placements and Cloudflare
+
+All localized pages use a shared advertising shell: 320x50 above the content, a native placement before the main body, two desktop rails at 160x600 on taller screens or 160x300 otherwise, and a 300x250 placement on smaller clients. Social Bar loads once per document. Hidden banner formats are not requested. Each banner runs in its own iframe to isolate atOptions. Inventory availability and native ad height depend on Adsterra; the website cannot guarantee fill or revenue.
+
+Use `?ad-preview=1` on localhost to inspect layout without issuing advertising requests. This preview switch has no effect on public hosts.
+
+The existing Cloudflare Worker is `breakandstealanegg-game`. Its Git integration deploy command is `npx wrangler deploy`. The checked-in wrangler.jsonc builds via `npm run build` before deploying `dist/` as static assets. It enables the workers.dev URL and preserves true 404 handling. No account token belongs in this repository. The production canonical origin is `https://breakandstealanegg-game.wiki`; change SITE_URL if deploying to another canonical domain. Domain binding must also exist on the Cloudflare Worker.

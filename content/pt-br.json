@@ -280,6 +280,10 @@
         [
           "Serviços externos",
           "Roblox e YouTube têm seus próprios serviços. As fontes são carregadas do Google Fonts, que recebe uma solicitação do navegador. O player só é carregado ao clicar. A hospedagem pode processar informações padrão das requisições."
+        ],
+        [
+          "Publicidade",
+          "Este site exibe anúncios da Adsterra, incluindo banners, anúncios nativos e Social Bar. O provedor e seus parceiros podem receber endereço IP, informações do navegador e dispositivo e dados de acesso, além de usar cookies ou tecnologias semelhantes para exibir e medir anúncios. Esses serviços carregam automaticamente nas páginas publicadas. O conteúdo e a disponibilidade dependem do provedor."
         ]
       ]
     },

@@ -280,6 +280,10 @@
         [
           "Layanan eksternal",
           "Roblox dan YouTube memiliki layanannya sendiri. Font dimuat dari Google Fonts yang menerima permintaan browser. Pemutar dimuat hanya setelah diklik. Penyedia hosting dapat memproses informasi permintaan standar."
+        ],
+        [
+          "Iklan",
+          "Situs ini menampilkan iklan Adsterra, termasuk banner, iklan native, dan Social Bar. Penyedia dan mitranya dapat menerima alamat IP, informasi browser/perangkat dan rincian akses halaman, serta menggunakan cookie atau teknologi serupa untuk menayangkan dan mengukur iklan. Layanan ini dimuat otomatis pada halaman yang dipublikasikan. Isi dan ketersediaan iklan ditentukan penyedia."
         ]
       ]
     },

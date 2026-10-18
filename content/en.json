@@ -296,6 +296,10 @@
         [
           "External services",
           "Opening Roblox or YouTube takes you to their services. Fonts are loaded from Google Fonts, which receives a font request from your browser. A YouTube player is requested only after you click the video button. Hosting providers may process standard request information according to their own policies."
+        ],
+        [
+          "Advertising",
+          "This website displays Adsterra advertising, including banners, native ads and a Social Bar. Advertising providers and their partners may receive your IP address, browser/device information and page request details, and may use cookies or similar technologies to deliver and measure ads. These services load automatically on published pages. Ad content and availability are controlled by the advertising provider."
         ]
       ]
     },
