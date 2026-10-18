@@ -1,0 +1,10 @@
+import { readFileSync } from 'node:fs';
+export const locales=['en','pt-br','es','id'];
+export const gameUrl='https://www.roblox.com/games/114326934417838/Break-and-Steal-an-Egg';
+export const groupUrl='https://www.roblox.com/communities/187288153/ILGames-x-Eggs';
+export const videoUrl='https://youtu.be/MtNnuhxs5jk';
+export const keywordMap=JSON.parse(readFileSync(new URL('./keyword-map.json',import.meta.url)));
+export const translations=Object.fromEntries(locales.map(l=>[l,JSON.parse(readFileSync(new URL(`./${l}.json`,import.meta.url)))]));
+const slugs=['beginner-guide','codes','pickaxes','speed-guide','eggs','guards-and-escape','money-and-base','animals-and-index','guide','community','privacy','terms'];
+const categories=['guide','codes','upgrades','upgrades','eggs','guide','guide','pets','guide','community','site','site'];
+export const pages=slugs.map((slug,i)=>({slug,category:categories[i],titleByLocale:Object.fromEntries(locales.map(l=>[l,translations[l].articles[i].title])),summaryByLocale:Object.fromEntries(locales.map(l=>[l,translations[l].articles[i].summary])),sectionsByLocale:Object.fromEntries(locales.map(l=>[l,translations[l].articles[i].sections.map((s,n)=>({id:`section-${n+1}`,heading:s[0],paragraphs:s.slice(1)}))])),sources:i===10||i===11?[]:[gameUrl,...(i===1||i===9?[groupUrl]:[videoUrl])],reviewedAt:'2026-10-17'}));

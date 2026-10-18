@@ -1,0 +1,20 @@
+{
+  "id": "appgdep_6ad392c11be48191831e32d892a9fd6d",
+  "project_id": "appgprj_6ad38de780748191b79b418583ac0c4c",
+  "title": "Break and Steal an Egg Wiki",
+  "version_id": "appgprj_6ad38de780748191b79b418583ac0c4c~appgver_2d10c3256c288191b534ec5b26301c2c",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://break-steal-egg-field-guide.zfyg9k7s5h.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "site---6ad38de780748191b79b418583ac0c4c",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-10-17T15:22:52.136803+00:00",
+  "source_commit": "4aa5b10f58294c4d4fbcf41c0deb3bfc79d6f943",
+  "audience": "owner-private",
+  "archive": "artifacts/egg-wiki.tar.gz",
+  "tests_passed": 10,
+  "html_pages_checked": 54
+}

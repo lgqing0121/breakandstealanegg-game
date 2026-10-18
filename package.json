@@ -1,0 +1,1 @@
+{"name":"break-and-steal-an-egg-wiki","version":"1.0.0","private":true,"type":"module","engines":{"node":">=22"},"scripts":{"build":"node scripts/build.mjs","dev":"node scripts/serve.mjs","test":"node --test tests/*.test.mjs","validate":"node scripts/validate.mjs","assets":"python scripts/prepare-assets.py"}}

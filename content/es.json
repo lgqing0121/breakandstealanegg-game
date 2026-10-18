@@ -1,0 +1,472 @@
+{
+  "language": "Español",
+  "tagline": "TU PRÓXIMA AVENTURA EMPIEZA AQUÍ",
+  "eyebrow": "La guía independiente de la comunidad",
+  "heroTitle": "Rompe huevos.\nPrepara tu huida.",
+  "intro": "Descubre algo extraordinario. Escapa de los guardias y construye una base a la que quieras volver. Tu próxima aventura en Break and Steal an Egg empieza aquí.",
+  "nav": [
+    "Guías",
+    "Códigos",
+    "Huevos",
+    "Animales",
+    "Mejoras",
+    "Comunidad"
+  ],
+  "ui": [
+    "Jugar en Roblox",
+    "Empezar con la guía inicial",
+    "Explorar las guías",
+    "Buscar guías",
+    "Buscar huevos, mejoras, guías…",
+    "No hay resultados. Prueba otra búsqueda.",
+    "Todas las guías",
+    "En esta página",
+    "Guías relacionadas",
+    "Fuentes y referencias",
+    "Revisado el 17 oct. 2026",
+    "Gameplay de la comunidad",
+    "Ver el gameplay",
+    "Preguntas frecuentes",
+    "Buenas preguntas. Respuestas claras.",
+    "¿Listo para tu próximo hallazgo?",
+    "Lleva tu próximo animal a casa. Empieza con un plan.",
+    "Leer guía",
+    "Privacidad",
+    "Términos",
+    "Wiki independiente de fans. Sin afiliación con ILGames x Eggs ni Roblox.",
+    "Menú",
+    "Cambiar tema",
+    "Elegir idioma",
+    "Cerrar",
+    "Resultados de búsqueda",
+    "Datos históricos · revisados el 17 oct. 2026",
+    "jugadores conectados",
+    "visitas totales",
+    "jugadores por servidor",
+    "última actualización",
+    "Sin códigos activos verificados",
+    "Ver estado de códigos",
+    "Explora la wiki",
+    "Más conocimiento. Una mejor partida.",
+    "Elige tu próximo paso",
+    "Empieza poco a poco. Construye a lo grande.",
+    "Sobre el juego",
+    "Un pequeño huevo. Una gran aventura.",
+    "Fundamentos verificados, consejos prácticos y un camino de vuelta a la base.",
+    "Tu guía de campo",
+    "Volver al inicio",
+    "Página no encontrada",
+    "Este camino no lleva a un huevo. Vuelve a la guía."
+  ],
+  "journey": [
+    "Rompe un huevo",
+    "Recoge el animal",
+    "Escapa de los guardias",
+    "Construye tu base"
+  ],
+  "journeyText": [
+    "Abre un huevo accesible con tu pico.",
+    "Descubre el animal y prepara la vuelta.",
+    "Planea el regreso antes de arriesgar.",
+    "Coloca el animal y empieza a ganar dinero."
+  ],
+  "about": [
+    "Break and Steal an Egg es un tycoon de simulación de Roblox creado por ILGames x Eggs. Rompe huevos, lleva los animales más allá de los guardias y colócalos en tu base para ganar dinero.",
+    "La velocidad, los picos y el Índice dan un nuevo objetivo a cada recorrido. Elige un destino accesible y mejora la parte del trayecto que más lo necesita."
+  ],
+  "faq": [
+    [
+      "¿Qué hago primero?",
+      "Completa un recorrido: rompe un huevo, recoge el animal, escapa y colócalo en tu base."
+    ],
+    [
+      "¿Hay códigos activos?",
+      "No se ha verificado ninguno en las fuentes recopiladas. Las recompensas por dar me gusta y unirse al grupo son distintas de los códigos."
+    ],
+    [
+      "¿Velocidad o pico?",
+      "Compara un recorrido completo. Revisa el pico si abrir huevos tarda demasiado o el movimiento si regresar es difícil."
+    ],
+    [
+      "¿Es una web oficial?",
+      "No. Es un recurso independiente de fans. El botón abre la experiencia de ILGames x Eggs en Roblox."
+    ],
+    [
+      "¿Son cifras en directo?",
+      "No. Son datos históricos recopilados el 17 de octubre de 2026."
+    ]
+  ],
+  "articles": [
+    {
+      "title": "Guía para Principiantes",
+      "summary": "Tu primer recorrido del huevo a la base.",
+      "sections": [
+        [
+          "Encuentra tu base",
+          "Identifica tu base y un punto de referencia para volver. Empieza con un huevo cercano para aprender el ciclo entero."
+        ],
+        [
+          "Rompe y regresa",
+          "Sigue las indicaciones actuales para abrir el huevo con el pico. Recoge el animal y escapa de los guardias hasta la base."
+        ],
+        [
+          "Coloca antes de mejorar",
+          "Coloca el animal y comprueba el dinero. Repite una ruta viable antes de buscar objetivos difíciles. Los vídeos con compras no reflejan el ritmo sin Robux."
+        ]
+      ]
+    },
+    {
+      "title": "Códigos y Recompensas",
+      "summary": "Qué está verificado y dónde comprobarlo.",
+      "sections": [
+        [
+          "Estado de los códigos",
+          "No se ha verificado un código de texto en las fuentes oficiales recopiladas hasta el 17 de octubre de 2026. Eso no impide que se añadan en el futuro."
+        ],
+        [
+          "Recompensas del grupo",
+          "La descripción pide dar me gusta y unirse a ILGames x Eggs para recibir recompensas. No especifica un código ni un premio. Consulta las indicaciones del juego."
+        ],
+        [
+          "Comprueba la fuente",
+          "Confirma el creador y el ID 114326934417838. Busca un anuncio original y un control de canje en el juego. Nunca escribas tu contraseña en una web de códigos."
+        ]
+      ]
+    },
+    {
+      "title": "Mejoras de Pico",
+      "summary": "Mejora la herramienta cuando abrir huevos sea el problema.",
+      "sections": [
+        [
+          "La función del pico",
+          "El pico rompe huevos. Mejorarlo forma parte de la progresión oficial, pero abrir un huevo aún requiere llevar el animal a casa."
+        ],
+        [
+          "Compara el tiempo",
+          "Cronometra la apertura y la vuelta en una ruta conocida. Revisa el precio actual antes de comprar. Una herramienta mejor no arregla una entrega fallida."
+        ],
+        [
+          "Precios y rareza",
+          "Los títulos citan picos raros, pero no verifican una tabla completa actual. Lee el precio y el poder dentro del juego."
+        ]
+      ]
+    },
+    {
+      "title": "Guía de Velocidad",
+      "summary": "Incluye el regreso en tu plan de progresión.",
+      "sections": [
+        [
+          "Movimiento con propósito",
+          "La descripción oficial incluye velocidad y escapar de guardias. Usa las mejoras para completar entregas, no solo para aumentar una cifra."
+        ],
+        [
+          "Prueba la misma ruta",
+          "Compara el viaje completo antes y después del cambio. Comprueba que colocaste el animal; un intento rápido pero fallido no aumenta los ingresos."
+        ],
+        [
+          "Estelas y precios",
+          "Las búsquedas mencionan estelas, pero no verifican sus precios actuales. Sigue las indicaciones de movimiento y equipo de tu versión del juego."
+        ]
+      ]
+    },
+    {
+      "title": "Huevos y Eclosión",
+      "summary": "Elige un objetivo que puedas abrir y traer a casa.",
+      "sections": [
+        [
+          "Del huevo al animal",
+          "Romper huevos permite obtener animales. Recoge el animal, escapa de los guardias y colócalo en tu base para completar el recorrido."
+        ],
+        [
+          "El mejor depende del objetivo",
+          "Para dinero, compara el esfuerzo y los ingresos mostrados. Para colección, busca una entrada que falte en el Índice. No hay un mejor huevo universal verificado."
+        ],
+        [
+          "Huevos Titanic y gigantes",
+          "Los vídeos mencionan estos huevos sin verificar probabilidades o disponibilidad permanente. Angelic y Scorpion Titan tampoco tienen mecánicas verificadas aquí. Comprueba los nombres y requisitos actuales."
+        ]
+      ]
+    },
+    {
+      "title": "Guardias y Huida",
+      "summary": "Convierte un buen hallazgo en una entrega completa.",
+      "sections": [
+        [
+          "Planea la vuelta",
+          "Localiza tu base antes de recoger el animal. Elige una ruta reconocible; es un consejo de planificación, no una garantía de seguridad."
+        ],
+        [
+          "Prioriza la entrega",
+          "Vuelve antes de abrir menús o buscar otro huevo. Colocar el animal en la base completa el ciclo de dinero."
+        ],
+        [
+          "Aprende de cada intento",
+          "Separa apertura, recogida, orientación y movimiento. Cambia un factor cada vez. No se han documentado distancias de detección ni horarios de patrulla en las fuentes oficiales."
+        ]
+      ]
+    },
+    {
+      "title": "Dinero y Base",
+      "summary": "Convierte las entregas en progreso para tu base.",
+      "sections": [
+        [
+          "Los ingresos empiezan al colocar",
+          "El desarrollador confirma que los animales en la base generan dinero. Comprueba la colocación y el indicador de ingresos después de cada entrega."
+        ],
+        [
+          "Una rutina consistente",
+          "Repite una ruta que puedas completar. Un animal valioso que no llega a casa no completa el ciclo. Amplía el recorrido cuando las entregas sean regulares."
+        ],
+        [
+          "Planea el gasto",
+          "Identifica si el problema es abrir, volver o elegir el objetivo. Revisa la mejora correspondiente. No hay una tabla completa de ingresos ni un plazo garantizado para enriquecerse."
+        ]
+      ]
+    },
+    {
+      "title": "Animales e Índice",
+      "summary": "Da a cada animal un objetivo: dinero o colección.",
+      "sections": [
+        [
+          "Usa el Índice actual",
+          "Elige una entrada que falte y comprueba el resultado al regresar. La descripción oficial presenta el Índice como meta de colección."
+        ],
+        [
+          "Mejor no significa más raro",
+          "Compara la información actual del animal con tu objetivo. Las fuentes oficiales recopiladas no ofrecen una tier list completa ni probabilidades de rareza."
+        ],
+        [
+          "Fusión y animales especiales",
+          "La investigación de gameplay menciona fusión y los vídeos citan Omega. Comprueba entradas y resultado en la máquina actual. Recetas, ingresos de peces y modelos descargables no están verificados."
+        ]
+      ]
+    },
+    {
+      "title": "Todas las Guías",
+      "summary": "Encuentra la siguiente respuesta útil.",
+      "sections": [
+        [
+          "Elige la etapa",
+          "Usa la guía inicial para aprender el ciclo, picos para aperturas lentas y velocidad o huida para volver. La guía de base ayuda con los ingresos."
+        ],
+        [
+          "Pases y secretos",
+          "Los vídeos con compras no prueban que un pase sea necesario. Lee la oferta actual en Roblox y distingue el progreso gratuito de los atajos de pago."
+        ]
+      ]
+    },
+    {
+      "title": "Comunidad y Creador",
+      "summary": "El juego correcto y las fuentes adecuadas.",
+      "sections": [
+        [
+          "Identidad oficial",
+          "La experiencia es de ILGames x Eggs, con ID 114326934417838. El grupo enlazado procede de la página oficial."
+        ],
+        [
+          "Redes y personas",
+          "No se ha confirmado un Discord enlazado por el creador ni un Pinterest oficial. La búsqueda bigspace07 no acredita su identidad. Esta web no ofrece compraventa de cuentas."
+        ]
+      ]
+    },
+    {
+      "title": "Política de Privacidad",
+      "summary": "Cómo funciona esta web estática.",
+      "sections": [
+        [
+          "Preferencias locales",
+          "El tema se guarda en el navegador. La búsqueda usa un índice local; no hay cuentas, pagos ni integración de analítica."
+        ],
+        [
+          "Servicios externos",
+          "Roblox y YouTube prestan sus propios servicios. Las fuentes se cargan desde Google Fonts, que recibe una petición del navegador. El reproductor se carga al hacer clic. El alojamiento puede procesar información estándar de las peticiones."
+        ]
+      ]
+    },
+    {
+      "title": "Términos de Uso",
+      "summary": "Una guía independiente con fuentes fechadas.",
+      "sections": [
+        [
+          "Recurso de fans",
+          "Sin afiliación con Roblox ni ILGames x Eggs. Nombres, imágenes y vídeos pertenecen a sus titulares. La web no aloja el juego."
+        ],
+        [
+          "Información cambiante",
+          "Los precios, el equilibrio y la disponibilidad pueden cambiar. Comprueba las indicaciones actuales antes de comprar o decidir cómo progresar."
+        ]
+      ]
+    }
+  ],
+  "activeCodes": [],
+  "modules": [
+    {
+      "order": 1,
+      "slug": "beginner-guide",
+      "title": "Guía para Principiantes",
+      "description": "Tu primer recorrido del huevo a la base.",
+      "displayType": "step-by-step",
+      "highlights": [
+        {
+          "label": "Encuentra tu base",
+          "detail": "Identifica tu base y un punto de referencia para volver. Empieza con un huevo cercano para aprender el ciclo entero."
+        },
+        {
+          "label": "Rompe y regresa",
+          "detail": "Sigue las indicaciones actuales para abrir el huevo con el pico. Recoge el animal y escapa de los guardias hasta la base."
+        },
+        {
+          "label": "Coloca antes de mejorar",
+          "detail": "Coloca el animal y comprueba el dinero. Repite una ruta viable antes de buscar objetivos difíciles. Los vídeos con compras no reflejan el ritmo sin Robux."
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "slug": "codes",
+      "title": "Códigos y Recompensas",
+      "description": "Qué está verificado y dónde comprobarlo.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "Estado de los códigos",
+          "detail": "No se ha verificado un código de texto en las fuentes oficiales recopiladas hasta el 17 de octubre de 2026. Eso no impide que se añadan en el futuro."
+        },
+        {
+          "label": "Recompensas del grupo",
+          "detail": "La descripción pide dar me gusta y unirse a ILGames x Eggs para recibir recompensas. No especifica un código ni un premio. Consulta las indicaciones del juego."
+        },
+        {
+          "label": "Comprueba la fuente",
+          "detail": "Confirma el creador y el ID 114326934417838. Busca un anuncio original y un control de canje en el juego. Nunca escribas tu contraseña en una web de códigos."
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "slug": "pickaxes",
+      "title": "Mejoras de Pico",
+      "description": "Mejora la herramienta cuando abrir huevos sea el problema.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "La función del pico",
+          "detail": "El pico rompe huevos. Mejorarlo forma parte de la progresión oficial, pero abrir un huevo aún requiere llevar el animal a casa."
+        },
+        {
+          "label": "Compara el tiempo",
+          "detail": "Cronometra la apertura y la vuelta en una ruta conocida. Revisa el precio actual antes de comprar. Una herramienta mejor no arregla una entrega fallida."
+        },
+        {
+          "label": "Precios y rareza",
+          "detail": "Los títulos citan picos raros, pero no verifican una tabla completa actual. Lee el precio y el poder dentro del juego."
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "slug": "speed-guide",
+      "title": "Guía de Velocidad",
+      "description": "Incluye el regreso en tu plan de progresión.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "Movimiento con propósito",
+          "detail": "La descripción oficial incluye velocidad y escapar de guardias. Usa las mejoras para completar entregas, no solo para aumentar una cifra."
+        },
+        {
+          "label": "Prueba la misma ruta",
+          "detail": "Compara el viaje completo antes y después del cambio. Comprueba que colocaste el animal; un intento rápido pero fallido no aumenta los ingresos."
+        },
+        {
+          "label": "Estelas y precios",
+          "detail": "Las búsquedas mencionan estelas, pero no verifican sus precios actuales. Sigue las indicaciones de movimiento y equipo de tu versión del juego."
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "slug": "eggs",
+      "title": "Huevos y Eclosión",
+      "description": "Elige un objetivo que puedas abrir y traer a casa.",
+      "displayType": "step-by-step",
+      "highlights": [
+        {
+          "label": "Del huevo al animal",
+          "detail": "Romper huevos permite obtener animales. Recoge el animal, escapa de los guardias y colócalo en tu base para completar el recorrido."
+        },
+        {
+          "label": "El mejor depende del objetivo",
+          "detail": "Para dinero, compara el esfuerzo y los ingresos mostrados. Para colección, busca una entrada que falte en el Índice. No hay un mejor huevo universal verificado."
+        },
+        {
+          "label": "Huevos Titanic y gigantes",
+          "detail": "Los vídeos mencionan estos huevos sin verificar probabilidades o disponibilidad permanente. Angelic y Scorpion Titan tampoco tienen mecánicas verificadas aquí. Comprueba los nombres y requisitos actuales."
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "slug": "guards-and-escape",
+      "title": "Guardias y Huida",
+      "description": "Convierte un buen hallazgo en una entrega completa.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "Planea la vuelta",
+          "detail": "Localiza tu base antes de recoger el animal. Elige una ruta reconocible; es un consejo de planificación, no una garantía de seguridad."
+        },
+        {
+          "label": "Prioriza la entrega",
+          "detail": "Vuelve antes de abrir menús o buscar otro huevo. Colocar el animal en la base completa el ciclo de dinero."
+        },
+        {
+          "label": "Aprende de cada intento",
+          "detail": "Separa apertura, recogida, orientación y movimiento. Cambia un factor cada vez. No se han documentado distancias de detección ni horarios de patrulla en las fuentes oficiales."
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "slug": "money-and-base",
+      "title": "Dinero y Base",
+      "description": "Convierte las entregas en progreso para tu base.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "Los ingresos empiezan al colocar",
+          "detail": "El desarrollador confirma que los animales en la base generan dinero. Comprueba la colocación y el indicador de ingresos después de cada entrega."
+        },
+        {
+          "label": "Una rutina consistente",
+          "detail": "Repite una ruta que puedas completar. Un animal valioso que no llega a casa no completa el ciclo. Amplía el recorrido cuando las entregas sean regulares."
+        },
+        {
+          "label": "Planea el gasto",
+          "detail": "Identifica si el problema es abrir, volver o elegir el objetivo. Revisa la mejora correspondiente. No hay una tabla completa de ingresos ni un plazo garantizado para enriquecerse."
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "slug": "animals-and-index",
+      "title": "Animales e Índice",
+      "description": "Da a cada animal un objetivo: dinero o colección.",
+      "displayType": "card-list",
+      "highlights": [
+        {
+          "label": "Usa el Índice actual",
+          "detail": "Elige una entrada que falte y comprueba el resultado al regresar. La descripción oficial presenta el Índice como meta de colección."
+        },
+        {
+          "label": "Mejor no significa más raro",
+          "detail": "Compara la información actual del animal con tu objetivo. Las fuentes oficiales recopiladas no ofrecen una tier list completa ni probabilidades de rareza."
+        },
+        {
+          "label": "Fusión y animales especiales",
+          "detail": "La investigación de gameplay menciona fusión y los vídeos citan Omega. Comprueba entradas y resultado en la máquina actual. Recetas, ingresos de peces y modelos descargables no están verificados."
+        }
+      ]
+    }
+  ]
+}
