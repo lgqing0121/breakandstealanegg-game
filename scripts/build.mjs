@@ -1,3 +1,4 @@
+import {googleTag} from '../src/analytics.mjs';
 import {mkdir,writeFile,cp,readFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {resolve} from 'node:path';
@@ -26,7 +27,7 @@ export async function buildSite({origin=(process.env.SITE_URL||process.env.CF_PA
  }
  await writeFile('dist/index.html',renderPage({locale:'en',origin}));
  const t=translations.en;
- await writeFile('dist/404.html',`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found — Break and Steal an Egg</title><meta name="robots" content="noindex"><link rel="stylesheet" href="/assets/styles.css"></head><body><main class="not-found"><span class="eyebrow">404</span><h1>${t.ui[42]}</h1><p>${t.ui[43]}</p><a class="button primary" href="/en/">${t.ui[41]}</a></main></body></html>`);
+ await writeFile('dist/404.html',`<!doctype html><html lang="en"><head>${googleTag}<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Page not found — Break and Steal an Egg</title><meta name="robots" content="noindex"><link rel="stylesheet" href="/assets/styles.css"></head><body><main class="not-found"><span class="eyebrow">404</span><h1>${t.ui[42]}</h1><p>${t.ui[43]}</p><a class="button primary" href="/en/">${t.ui[41]}</a></main></body></html>`);
  await writeFile('dist/robots.txt',`User-agent: *\nAllow: /\n${origin?`Sitemap: ${origin}/sitemap.xml\n`:''}`);
  await writeFile('dist/sitemap.xml',`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${origin?paths.map(p=>`<url><loc>${escapeHtml(origin+p)}</loc></url>`).join(''):''}</urlset>`);
  return paths.length;
